@@ -6,7 +6,7 @@ import { Badge } from '@material-ui/core';
 const Container = styled.div`
 height: 60px;
 
-`
+`;
 //background-color: black;
 const Wrapper = styled.div`
 padding: 10px 20px;
@@ -49,6 +49,7 @@ border: none;
 
 const Logo = styled.h1`
 font-weight: bold;
+color: red;
 `;
 
 const MenuItem = styled.div`
@@ -68,7 +69,7 @@ const Navbar = () => {
                         <Search style={{color:"gray", fontSize:16}}/>
                     </SearchContainer>
             </Left>
-            <Center><Logo>Nouk</Logo></Center>
+            <Center><Logo>HOUSE OF MIRA</Logo></Center>
             <Right>
                 <MenuItem>REGISTER</MenuItem>
                     <MenuItem>SIGN IN</MenuItem>
