@@ -27,3 +27,30 @@ export const sliderItems = [
         bg: "fbf0f4",
     },
 ]
+
+
+export const categories = [
+
+    {
+        id: 1,
+        img: "https://i.ibb.co/ySvT3Nc/im1.png",
+        title: "SHIRT STYLE!",
+    },
+
+
+    {
+        id: 2,
+        img: "https://i.ibb.co/74v4tqW/im2.png",
+        title: "LOUNGEWEAR LOVE",
+    },
+
+
+    {
+        id: 3,
+        img: "https://i.ibb.co/gPkHjbZ/im3.png ",
+        title: "LIGHT JACKETS",
+    },
+];
+
+
+
